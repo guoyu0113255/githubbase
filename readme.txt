@@ -1,5 +1,5 @@
-git is a free vesion control system
+git is a free vesion control systemI
 It was written by C program language!
-Manager distrubute!
+Manager has been distrubuted!
 Creating a new branch is quick and simple!
 Manager branch!
